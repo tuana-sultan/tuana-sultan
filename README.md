@@ -1,5 +1,5 @@
 # 💫 Ben Tuana!<br>
-🐍Şuanda Python dili ile kodlama yapıyorum. <br>
+🐍Şuanda Python dili ile çalışıyorum. <br>
 💻Basit seviyeden İleri seviyeye kendimi geliştiriyorum.<br>
 💣Junior Fullstack Developer yolcuğulumu benimle birlikte takip etmeye ne dersin?<br>
 
